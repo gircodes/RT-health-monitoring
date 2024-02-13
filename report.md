@@ -36,9 +36,9 @@ An effective response means : Detection, screening and treatment.
 
 According to IDF.org, the number of adult diabetics (20-79 yrs) worldwide is (in millions):  
 
--tx-
-:---:|---|---|---|---|   
+ 
 Year |  2000 | 2021 | 2030 | 2045 | 
+:---:|---|---|---|---|  
 Diabetics | 151 | 537 | 643 | 783 | 
 
 There are 3 types of diabetes :  
