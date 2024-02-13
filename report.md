@@ -93,7 +93,7 @@ The objective is to have a real-time glimpse of the users health status. So we n
 Various IoT devices and wearables like [Fitbit](https://www.fitbit.com/global/in/technology/health-metrics) and [Corsano](https://corsano.com/solutions/remote-patient-monitoring/) bracelets are available in the market. They come with open API for real time data access. They collect vital sign data like : **Temperature, Weight, Blood Pressure, Blood Glucose, Heart Rate, Oxygen Saturation (SPO2), Respiration Rate, Level of consciousness** etc. [6]. Other options are : **EEG, ECG, EMG, Pulse, Motion, Accelerometer** etc. [14]. Mostly these devices transfer their data to the smart phone app from where it is sent to the cloud server.
 
 
-![[assets/OHMS_arch_2.jpg]]
+![Diabetes Detection Workflow](/assets/OHMS_arch_2.jpg)  
 Figure 1 : Diabetes Detection Workflow  
 
 
